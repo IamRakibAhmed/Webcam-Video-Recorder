@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYJ2hmvjIqVB4ooZezOfs2X2SAQM9n6HaFRtk/NIdA6ONmVMYJNogmZgSCMa09nR2eCuXt2m8ZNG9/YQ0JLBDA==",
+  "success": true,
+  "projectFilePath": "D:\\ULAB\\courses\\C#\\Project\\Rakib(191014033)_Lithia(181014076)_Kaniz(183014050)\\Video-Recorder\\Video-Recorder\\Video-Recorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\basicaudio\\2021.5.3.1\\basicaudio.2021.5.3.1.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\directshowlib.standard\\2.1.0\\directshowlib.standard.2.1.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\ffmpegcore\\4.5.0\\ffmpegcore.4.5.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\instances\\1.6.0\\instances.1.6.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\opencvsharp4\\4.5.3.20210817\\opencvsharp4.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.3.20210817\\opencvsharp4.runtime.win.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
